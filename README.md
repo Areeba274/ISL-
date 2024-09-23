@@ -1,0 +1,1 @@
+The code was saved during training so the images might be blurry in the notebook .But if you run the same code you will get results.Try to test on smaller dataset first.I used ISL-CSLRT dataset which is publicaly available on internet .From pre processing to Models implementation everything is given in the notebook
